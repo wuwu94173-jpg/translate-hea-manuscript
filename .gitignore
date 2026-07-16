@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+Thumbs.db
+.DS_Store
+
+# User papers and generated translation corpora
+*.pdf
+*.docx
+HEA_translation_project/
+*_translation_project/
+02_reference_papers/
+03_translation_resources/
+04_translation/
+05_quality_control/

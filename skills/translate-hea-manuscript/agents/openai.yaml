@@ -1,0 +1,4 @@
+interface:
+  display_name: "高熵合金论文英译"
+  short_description: "学习本地及开放文献并将高熵合金中文论文翻译为规范SCI英文稿"
+  default_prompt: "Use $translate-hea-manuscript to learn from my local papers plus relevant open-access HEA literature and translate my Chinese manuscript into submission-ready SCI English."
